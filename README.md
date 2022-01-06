@@ -3,6 +3,7 @@
 ### About👩‍💻
 
 With two buttons we can change the color of text and background view. 
+7h was spent to finsih.
 
 ### App Walk-though
 

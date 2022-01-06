@@ -1,7 +1,8 @@
-## NAME_OF_YOUR_APP_HERE
+## Simple IOS aplication 
 
-### App Description
-`TODO://` Add app description
+### About👩‍💻
+
+With two buttons we can change the color of text and background view. 
 
 ### App Walk-though
 
